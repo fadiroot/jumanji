@@ -142,7 +142,6 @@ cython_debug/
 .idea/
 
 # VSCode stuff
-.vscode
 
 # Docker stuff
 .devcontainer
@@ -162,3 +161,7 @@ jumanji_env/
 
 # Test artifact written to CWD by mmst/viewer_test.py
 render_test_gif.gif
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
