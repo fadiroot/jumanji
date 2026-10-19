@@ -77,7 +77,6 @@ docs_public/
 .pybuilder/
 target/
 
-temp_auto_push.bat
 # Jupyter Notebook
 .ipynb_checkpoints
 
@@ -143,6 +142,7 @@ cython_debug/
 .idea/
 
 # VSCode stuff
+.vscode
 
 # Docker stuff
 .devcontainer
@@ -157,5 +157,3 @@ jumanji_env/
 .sokoban_cache/
 *.lock
 .cursor
-.gitignore
-branch_structure.json
