@@ -75,7 +75,6 @@ docs_public/
 
 # PyBuilder
 .pybuilder/
-temp_auto_push.bat
 target/
 
 # Jupyter Notebook
@@ -143,6 +142,7 @@ cython_debug/
 .idea/
 
 # VSCode stuff
+.vscode
 
 # Docker stuff
 .devcontainer
@@ -154,5 +154,3 @@ cython_debug/
 jumanji_env/
 **/outputs/
 *.xml
-.gitignore
-branch_structure.json
